@@ -9,12 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmirOVH&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirOVH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=AS207740)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AmirOVH&icon=3&color=0)](https://visitcount.itsvg.in)
 
